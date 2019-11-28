@@ -4,7 +4,7 @@
  polymorphisms, encapsulation. Estimated time for application development is 5 hours. 
  The application should be written in php. The candidate should not use the UI or use the database.</p>
 
-				<h2Task</h2>
+				<h2>Task</h2>
 
 <p>Create application TRADE CHAIN.TRADE CHAIN can have multiple stores.
 The types of stores are: a traffic, a supermarket and a pharmacy.
