@@ -4,7 +4,7 @@
  polymorphisms, encapsulation. Estimated time for application development is 5 hours. 
  The application should be written in php. The candidate should not use the UI or use the database.</p>
 
-				<h2>Task</h2>
+				    Task
 
 <p>Create application TRADE CHAIN.TRADE CHAIN can have multiple stores.
 The types of stores are: a traffic, a supermarket and a pharmacy.
@@ -22,7 +22,7 @@ After successful sale bill creation the supplies of sold products should be redu
 If the supplies of any product after reducing is less than 0,bill creation shouldn't be allowed.
 Each store should have a record of products sold in the selected period.</p>
 
-				<h2>Test</2>
+				    Test
 
 <p>Make a test that should contain one store of each type, with a minimum of 2 products.
 Create at least 2 bills for each store for today.
@@ -30,7 +30,7 @@ Make one bill with a quantity greater than the supplies of products in the store
 Make one bill at the pharmacy without entering the serial number.
 Create a report of the sold products for each store for today.</p>
 
-				<h2>Bonus</h2>
+				    Bonus
 <p>Every sale of each product should be logged in the format: 
 type of store,  type of product, product price, before-sale supplies, after-sales supplies, time of sale.</p>
 </p>
